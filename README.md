@@ -1,6 +1,6 @@
 ### Hey there 👋  
 
-I'm currently completing my master in data science and big data at Politecnico di Milano.  
+I'm currently completing my master in data science and business analytics at Politecnico di Milano.  
 
 🔭 **Currently working on**  
 Thesis project with European Commission and Karolinska Institutet leveraging NLP to improve quality assessment of scientific literature 
