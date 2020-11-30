@@ -11,7 +11,7 @@ Data Science, Deep Learning, Technology, Mountains, Chess, Tennis
 🐍 **Tech Stack**  
 - Programming Langauges: Python, Bash, currently exploring TypeScript  
 - OS: MacOS, Ubuntu, Manjaro  
-- Deep Learning framework: Tensorflow  
+- Deep Learning framework: Tensorflow, familiar with PyTorch
 - Cloud platform: GCP, AWS  
 - DBs: SQL, MongoDB, Presto  
 
