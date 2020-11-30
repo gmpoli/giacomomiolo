@@ -15,7 +15,8 @@ Data Science, Deep Learning, Technology, Mountains, Chess, Tennis
 - Cloud platform: GCP, AWS  
 - DBs: SQL, MongoDB, Presto  
 
-[![Linkedin Badge](https://img.shields.io/badge/-giacomomiolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)](https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)
+**Contacts**  
+[![Linkedin Badge](https://img.shields.io/badge/-giacomomiolo-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)](https://www.linkedin.com/in/giacomo-miolo-83a49ba4/) [![Gmail Badge](https://img.shields.io/badge/-giacomo.miolo@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)](https://www.linkedin.com/in/giacomo-miolo-83a49ba4/)  
 
 <!--
 **giacomomiolo/giacomomiolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
