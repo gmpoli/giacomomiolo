@@ -1,4 +1,4 @@
-### Hey there 👋  
+### Hey there! 👋  
 
 I recently completed the master in Data Science and Business Analytics at Politecnico di Milano 🇮🇹 with a thesis project in collaboration with the European Commission 🇪🇺 and the Karolisnka Institutet 🇸🇪. The project was about improving scientific literature quality assessment leveraging the latest advancements in NLP.
 
